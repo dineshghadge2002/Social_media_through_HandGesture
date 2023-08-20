@@ -19,7 +19,8 @@ This Python script uses hand gestures to control the opening of various social m
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YourUsername/HandGestureSocialMediaOpener.git
+   git clone https://github.com/dineshghadge2002/Social_media_through_HandGesture.git
+   
    cd HandGestureSocialMediaOpener
    ```
 
